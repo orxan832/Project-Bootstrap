@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#main-container {
+  overflow: auto;
+}
+
+#wrapper-1 {
+  background-color: #29449D; 
+}
+
+.thirdLine {
+  color: whitesmoke;
+  font-size: 2em; 
+  position: absolute;
+  right: 30px;
+  top: 15px;
+}
+
+.profile-panel {
+  margin: 70px 20px 0 20px;
+}
+
+.profile-photo {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #344EA1;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  border: 2px solid #556CB4;
+}
+
+#icon-container p {
+  color: whitesmoke;
+  font-size: 0.8em;
+
+}
+
+#icon-container img {
+  color: whitesmoke;
+  margin-top: 25px;
+}
+
+.icons-div {
+  width: 110%;
+  height: 70px;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+
+.otaq-back {
+  background-color: #24D1C5;
+}
+
+.movzu-back {
+  background-color: #FE9001;
+}
+
+.teskilat-back {
+  background-color: #42DA5E;
+}
+
+.istirak-back {
+  background-color: #FF503F;
+}
+
+.iclas-back {
+  background-color: #FFBB01;
+}
+
+.layihe-back {
+  background-color: #FF3683;
+}
+
+#wrapper-test {
+  min-height: 100vw;
+}
+
+
+
+
+
+
